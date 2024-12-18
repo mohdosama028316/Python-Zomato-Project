@@ -5,7 +5,7 @@ Zomato has an average of 17.5 million monthly transacting customers for its food
 
 1) What type of restaurant do the majority of customers order from?
 
-2 How many votes has each type of restaurant received from customers?
+2) How many votes has each type of restaurant received from customers?
 
 3) What are the ratings that the majority of restaurants have received?
 
